@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "http://meek-lollipop-7fb161.netlify.app"
 languageCode = "en-us"
 title = "Hoottopic"
 theme = "PaperMod"
