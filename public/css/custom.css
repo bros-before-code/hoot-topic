@@ -1,0 +1,215 @@
+
+/* === Base Styling === */
+body {
+  background-color: #e6f0fa;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: #102542;
+}
+
+a {
+  color: #005bbb;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #003366;
+  text-decoration: underline;
+}
+
+.header-bar-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #003366;
+  padding: 1rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.header-left,
+.header-center,
+.header-right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.header-left {
+  justify-content: flex-start;
+}
+
+.header-center {
+  justify-content: center;
+}
+
+.header-right {
+  justify-content: flex-end;
+}
+
+.logo-flex {
+  height: 180px;
+  width: auto;
+  cursor: pointer;
+  align-self: flex-start;
+  margin-top: -20px;
+}
+
+
+/* === Owl Logo (Top-Left) === */
+.logo-corner {
+  height: 150px;
+  width: auto;
+  position: absolute;
+  top: 0.1rem;
+  left: 2rem;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+/* === Title (Centered) === */
+.hoottopic-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 6rem;
+  font-weight: bold;
+  letter-spacing: 30px;
+  text-transform: uppercase;
+  color: white;
+  text-shadow: 0 0 15px #4db8ff, 0 0 30px #3099fc;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* === Header Navigation (Right Side) === */
+.header-nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav-link {
+  font-size: 3rem;
+  color: #ffffff;
+  padding: 0.5rem 2rem;
+  margin: 0 1rem;
+}
+
+.nav-link:hover {
+  color: #4db8ff;
+}
+
+/* === Content Area === */
+main {
+  padding: 2rem;
+}
+
+/* === Old Navbar (if still used) === */
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+}
+
+.menu a,
+.navbar-nav a {
+  font-size: 1.1rem;
+  color: #005bbb;
+  margin-left: 20px;
+}
+
+/* === Responsive === */
+@media (max-width: 768px) {
+  .hoottopic-title {
+    font-size: 2.5rem;
+    letter-spacing: 6px;
+  }
+
+  .logo-corner {
+    height: 80px;
+    top: 1rem;
+    left: 1rem;
+  }
+}
+
+.homepage {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.homepage img {
+  max-width: 600px;
+  margin-bottom: 2rem;
+  margin-top: -3rem;
+}
+
+.homepage h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.homepage p {
+  font-size: 1.2rem;
+  color: #333;
+  max-width: 600px;
+  margin: 0 auto 2rem auto;
+}
+
+.homepage a {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.1rem;
+  background-color: #005bbb;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.homepage a:hover {
+  background-color: #003366;
+}
+
+.home-hero-image {
+  max-width: 300px;
+  margin-bottom: 2rem;
+}
+
+.homepage-image {
+  display: block;
+  margin: 2rem auto;
+  width: 800px;
+  max-width: 100%;
+  height: auto;
+}
+
+.article-image {
+  display: block;
+  margin: 1rem auto;
+  max-width: 90%;   /* adapts to screen size */
+  height: auto;
+  border-radius: 8px;
+}
+
+.entry-header-with-image {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.entry-thumb-wrapper {
+  flex-shrink: 0;
+}
+
+.entry-thumb {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}

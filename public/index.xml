@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome to Hoottopic on Hoottopic</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to Hoottopic on Hoottopic</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;HootTopic&lt;/strong&gt; — where curiosity meets creativity.&lt;/p&gt;
+&lt;p&gt;We use AI to answer fun, weird, and fascinating &amp;ldquo;Top 5&amp;rdquo; questions, and present each answer with engaging images and facts. Whether it&amp;rsquo;s the biggest animals, the strangest foods, or the deadliest mushrooms, we break it down in a way that&amp;rsquo;s fun to read and easy to share.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Why we do it:&lt;/strong&gt;&lt;br&gt;
+We think learning should feel like flipping over a Snapple cap — short, surprising, and satisfying. That’s why every article on HootTopic is fast, visual, and full of bite-sized facts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Top 5 Poisonous Mushrooms</title>
+      <link>http://localhost:1313/posts/top-5-mushrooms/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/top-5-mushrooms/</guid>
+      <description>&lt;p&gt;Nature hides danger in plain sight — especially among mushrooms. Here are the top 5 most poisonous mushrooms in the world.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;1. Death Cap (&lt;em&gt;Amanita phalloides&lt;/em&gt;)&lt;/strong&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/images/mushroom01.jpg&#34; alt=&#34;Death Cap&#34; class=&#34;article-image&#34;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;☠️ &lt;strong&gt;Toxin&lt;/strong&gt;: Amatoxins&lt;br&gt;
+📍 &lt;strong&gt;Found&lt;/strong&gt;: Europe, North America, Asia&lt;br&gt;
+⚠️ &lt;strong&gt;Fatal dose&lt;/strong&gt;: One mushroom&lt;br&gt;
+Responsible for most mushroom-related deaths worldwide, the Death Cap resembles edible varieties — making it especially dangerous. Symptoms are delayed, often too late for effective treatment.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;2. Destroying Angel (&lt;em&gt;Amanita bisporigera&lt;/em&gt;)&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Top 5 Trees for Syrup</title>
+      <link>http://localhost:1313/posts/top-5-syrup-trees/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/top-5-syrup-trees/</guid>
+      <description>&lt;p&gt;Not just maple! Several tree species produce delicious, tap-worthy sap. Here are the top 5 trees you can use to make syrup.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;1. Sugar Maple (&lt;em&gt;Acer saccharum&lt;/em&gt;)&lt;/strong&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/images/tree01.jpg&#34; alt=&#34;Sugar Maple&#34; class=&#34;article-image&#34;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🍁 &lt;strong&gt;Sap Sugar Content&lt;/strong&gt;: ~2%&lt;br&gt;
+🌎 &lt;strong&gt;Found&lt;/strong&gt;: Eastern North America&lt;br&gt;
+🧴 &lt;strong&gt;Flavor&lt;/strong&gt;: Rich, classic maple syrup&lt;br&gt;
+The Sugar Maple is the &lt;strong&gt;gold standard&lt;/strong&gt; for syrup. Its high sugar content and smooth flavor make it the most efficient and widely used tree for syrup production.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Top 5 Largest Whales</title>
+      <link>http://localhost:1313/posts/top-5-largest-whales/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/top-5-largest-whales/</guid>
+      <description>&lt;p&gt;The oceans are home to some of the most massive creatures to ever exist. Here are the top 5 largest whales on Earth.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;1. Blue Whale (&lt;em&gt;Balaenoptera musculus&lt;/em&gt;)&lt;/strong&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/images/whale01.jpg&#34; alt=&#34;Blue Whale&#34; class=&#34;article-image&#34;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;📏 &lt;strong&gt;Length&lt;/strong&gt;: Up to 100 feet&lt;br&gt;
+⚖️ &lt;strong&gt;Weight&lt;/strong&gt;: Up to 200 tons&lt;br&gt;
+🌊 &lt;strong&gt;Where&lt;/strong&gt;: All major oceans&lt;br&gt;
+The blue whale is the &lt;strong&gt;largest animal ever known&lt;/strong&gt; — even bigger than dinosaurs. Its heart is the size of a small car, and its call can be heard hundreds of miles away.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Top 5 Largest Snakes</title>
+      <link>http://localhost:1313/posts/top-5-largest-snakes/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/top-5-largest-snakes/</guid>
+      <description>&lt;p&gt;Slithering giants roam the wild — some longer than a bus! Here are the top 5 largest snakes ever recorded.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;1. Green Anaconda (&lt;em&gt;Eunectes murinus&lt;/em&gt;)&lt;/strong&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/images/green-anaconda.jpg&#34; alt=&#34;Green Anaconda&#34; class=&#34;article-image&#34;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;📏 &lt;strong&gt;Length&lt;/strong&gt;: Up to 30 feet&lt;br&gt;
+🐍 &lt;strong&gt;Where&lt;/strong&gt;: South America (Amazon Basin)&lt;br&gt;
+The green anaconda is the &lt;strong&gt;heaviest&lt;/strong&gt; snake on Earth. While it’s not always the longest, its massive girth and weight (up to 550 lbs) make it a true apex predator in swamps and rivers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+baseURL = "http://localhost/"
+languageCode = "en-us"
+title = "Hoottopic"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "Bobbe"
+  description = "Snapple-style facts, posted daily"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = false
+  defaultTheme = "light"
+  disableThemeToggle = true
+
+  [params.assets]
+    disableScrollBarStyle = false
+    css = ["css/custom.css"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "top5"
+    name = "Top 5s"
+    url = "/posts/"
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
