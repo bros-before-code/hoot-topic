@@ -127,7 +127,7 @@ main {
 @media (max-width: 768px) {
   .hoottopic-title {
     font-size: 2.5rem;
-    letter-spacing: 6px;
+    letter-spacing: 10px;
   }
 
   .logo-corner {
@@ -183,8 +183,8 @@ main {
 .homepage-image {
   display: block;
   margin: 2rem auto;
-  width: 800px;
   max-width: 100%;
+  width: 100%;
   height: auto;
 }
 
@@ -212,4 +212,25 @@ main {
   object-fit: cover;
   border-radius: 8px;
   box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+/* Ensure content stays centered and responsive */
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+.homepage {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
+}
+
+main {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+html, body {
+  overflow-x: hidden;
 }
