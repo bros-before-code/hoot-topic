@@ -1,4 +1,4 @@
 baseURL = 'https://hoottopic.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hoottopic'
 theme = "PaperMod"
