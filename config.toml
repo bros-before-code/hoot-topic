@@ -2,3 +2,13 @@ baseURL = 'https://hoottopic.netlify.app'
 languageCode = 'en-us'
 title = 'Hoottopic'
 theme = "PaperMod"
+
+paginate = 0  # disables post list pagination
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  mainSections = []
+
+    [params.homeInfoParams]
+    Title = "Welcome to HootTopic"
+    Content = "🦉 Discover weird and wild 'Top 5' facts — curated by AI."
