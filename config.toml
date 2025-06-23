@@ -3,12 +3,20 @@ languageCode = 'en-us'
 title = 'Hoottopic'
 theme = "PaperMod"
 
-paginate = 0  # disables post list pagination
+paginate = 0
 disableKinds = ["taxonomy", "term"]
 
 [params]
   mainSections = []
 
-    [params.homeInfoParams]
-    Title = "Welcome to HootTopic"
-    Content = "🦉 Discover weird and wild 'Top 5' facts — curated by AI."
+  [params.homeInfoParams]
+
+  [params.assets]
+    customCSS = ["css/custom.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+ignoreLogs = ["warning-goldmark-raw-html"]

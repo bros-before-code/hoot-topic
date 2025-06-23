@@ -1,20 +1,15 @@
 ---
 title: "Welcome to Hoottopic"
-date: 2025-06-18
 layout: "home"
-draft: false
 ---
+
+<img src="/images/owl-meeting-home.png" alt="Owl mascot at meeting" style="max-width: 300px; display: block; margin: 0 auto 1.5rem;" />
 
 🦉 **Welcome to Hoottopic!**
 
 We serve bite-sized, AI-powered articles — just like Snapple facts, but cooler.
 
-Browse our top 5s on animals, history, nature, food, and random brain candy.
-
----
-
-🔥 **Featured Posts**  
-→ Visit the [Top 5s](/posts/) page for the latest articles.
+<p><a href="/posts/" class="btn">Browse Top 5s</a></p>
 
 ---
 
