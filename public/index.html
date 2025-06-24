@@ -73,6 +73,41 @@ a.btn {
 a.btn:hover {
   background-color: #3730a3;
 }
+.centered {
+  text-align: center;
+}
+.big-text {
+  font-size: 2.5rem;
+}
+.title-big {
+  font-size: 6.5rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.owl-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+}
+.hero-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.hero-container img {
+  max-width: 500px;
+  height: auto;
+  margin-bottom: 1.5rem;
+  margin-left: 2.0rem;
+}
+
+
 </style>
 </head>
 
@@ -120,10 +155,14 @@ a.btn:hover {
     </nav>
 </header>
 <main class="main"> 
-<div class="post-content"><img src="/images/owl-meeting-home.png" alt="Owl mascot at meeting" style="max-width: 300px; display: block; margin: 0 auto 1.5rem;" />
-<p>🦉 <strong>Welcome to Hoottopic!</strong></p>
-<p>We serve bite-sized, AI-powered articles — just like Snapple facts, but cooler.</p>
+<div class="post-content"><div class="hero-container">
+  <img src="/images/owl-meeting-home.png" alt="Owl mascot at meeting" />
+  <h1 class="title-big">🦉 Welcome to Hoottopic!</h1>
+  <p class="big-text">
+    We serve bite-sized, AI-powered articles — just like Snapple facts, but cooler.
+  </p>
 <p><a href="/posts/" class="btn">Browse Top 5s</a></p>
+</div>
 <hr>
 <p><em>New posts every week. Stay curious.</em></p>
 
