@@ -1,8 +1,10 @@
 ---
 title: "Top 5 American Sodas During the 1800s"
 date: 2025-06-18
-cover_image: "/images/soda01.jpg"
+cover_image: "/images/soda-cover.png"
 draft: false
+summary: "Before Coca-Cola became king, the 1800s were bubbling with strange brews, herbal tonics, and fizzy elixirs.  
+ Let’s pop the cork on the top 5 sodas that quenched America’s thirst in the 19th century."
 ---
 
 Before Coca-Cola became king, the 1800s were bubbling with strange brews, herbal tonics, and fizzy elixirs.  

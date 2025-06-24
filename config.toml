@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "term"]
   [params.homeInfoParams]
 
   [params.assets]
-    customCSS = ["css/custom.css"]
+    customCSS = ["css/extended/extended_styles.css"]
 
 [markup]
   [markup.goldmark]

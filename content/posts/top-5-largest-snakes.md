@@ -1,8 +1,10 @@
 ---
 title: "Top 5 Largest Snakes"
 date: 2025-06-08
-cover_image: "/images/snake02.jpg"
+cover_image: "/images/snake-cover.png"
 draft: false
+summary: "Slithering giants roam the wild — some longer than a bus!  
+ Here are the top 5 largest snakes on Earth."
 ---
 
 Slithering giants roam the wild — some longer than a bus!  

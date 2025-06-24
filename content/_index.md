@@ -1,6 +1,8 @@
 ---
+draft: false
 title: "Welcome to Hoottopic"
 layout: "home"
+type: "page"
 ---
 
 <div class="hero-container">

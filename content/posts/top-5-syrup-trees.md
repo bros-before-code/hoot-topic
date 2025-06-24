@@ -3,6 +3,8 @@ title: "Top 5 Trees for Syrup"
 date: 2025-06-11
 cover_image: "/images/tree-cover.jpg"
 draft: false
+summary: "Not just maple! Several tree species produce delicious, tap-worthy sap.  
+ Here are the top 5 trees you can use to make syrup."
 ---
 
 Not just maple! Several tree species produce delicious, tap-worthy sap.  

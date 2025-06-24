@@ -105,8 +105,33 @@ a.btn:hover {
   margin-bottom: 1.5rem;
   margin-left: 2.0rem;
 }
+.post-card {
+  display: flex;
+  gap: 1.25rem;
+  margin-bottom: 2.25rem;
+  align-items: flex-start;
+}
 
+.post-card-img img {
+  width: 120px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
 
+.post-card-content {
+  flex: 1;
+}
+
+.post-card-content h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: #aaa;
+}
 </style>
 </head>
 
@@ -153,102 +178,140 @@ a.btn:hover {
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<header class="page-header">
-  <h1>
-    Posts
-  </h1>
-</header>
+<main class="main">
+<main class="main">
+  <h1 class="page-title" style="font-size: 2.4rem;">Posts</h1>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Top 5 American Sodas During the 1800s
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Before Coca-Cola became king, the 1800s were bubbling with strange brews, herbal tonics, and fizzy elixirs.
-Let’s pop the cork on the top 5 sodas that quenched America’s thirst in the 19th century.
-1. Moxie (1884) 🧠 Claim to Fame: “Nerve food” with attitude
-🌲 Where: Lowell, Massachusetts
-Moxie wasn’t just a drink — it was marketed as a medicinal tonic to treat fatigue and improve vitality.
-With a unique bitter taste, it was America’s first mass-produced soda and even had a presidential endorsement from Calvin Coolidge.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-06-18 00:00:00 +0000 UTC'>June 18, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to Top 5 American Sodas During the 1800s" href="http://localhost:1313/posts/top-5-1800s-sodas/"></a>
-</article>
+  <section>
+    
+    <article class="post-card" style="margin-bottom: 2.5rem;">
+      
+      
+      <div class="post-card-img">
+        <a href="/posts/top-5-1800s-sodas/">
+          <img src="/images/soda-cover.png" alt="Top 5 American Sodas During the 1800s" loading="lazy" style="max-width: 100%;">
+        </a>
+      </div>
+      
+      <div class="post-card-content">
+        <h2 style="font-size: 1.8rem; margin: 0.5rem 0;">
+          <a href="/posts/top-5-1800s-sodas/" style="text-decoration: none; color: inherit;">
+            Top 5 American Sodas During the 1800s
+          </a>
+        </h2>
+        <p style="font-size: 1.15rem;">
+          
+            Before Coca-Cola became king, the 1800s were bubbling with strange brews, herbal tonics, and fizzy elixirs. Let’s pop the cork on the top 5 sodas that quenched America’s thirst in the 19th century.
+          
+          <a href="/posts/top-5-1800s-sodas/">Read more →</a>
+        </p>
+        <p class="post-meta" style="font-size: 1rem;">Jun 18, 2025</p>
+      </div>
+    </article>
+    
+    <article class="post-card" style="margin-bottom: 2.5rem;">
+      
+      
+      <div class="post-card-img">
+        <a href="/posts/top-5-mushrooms/">
+          <img src="/images/mushroom-cover.png" alt="Top 5 Poisonous Mushrooms" loading="lazy" style="max-width: 100%;">
+        </a>
+      </div>
+      
+      <div class="post-card-content">
+        <h2 style="font-size: 1.8rem; margin: 0.5rem 0;">
+          <a href="/posts/top-5-mushrooms/" style="text-decoration: none; color: inherit;">
+            Top 5 Poisonous Mushrooms
+          </a>
+        </h2>
+        <p style="font-size: 1.15rem;">
+          
+            Nature hides danger in plain sight — especially among mushrooms. Here are the top 5 most poisonous mushrooms in the world
+          
+          <a href="/posts/top-5-mushrooms/">Read more →</a>
+        </p>
+        <p class="post-meta" style="font-size: 1rem;">Jun 11, 2025</p>
+      </div>
+    </article>
+    
+    <article class="post-card" style="margin-bottom: 2.5rem;">
+      
+      
+      <div class="post-card-img">
+        <a href="/posts/top-5-syrup-trees/">
+          <img src="/images/tree-cover.jpg" alt="Top 5 Trees for Syrup" loading="lazy" style="max-width: 100%;">
+        </a>
+      </div>
+      
+      <div class="post-card-content">
+        <h2 style="font-size: 1.8rem; margin: 0.5rem 0;">
+          <a href="/posts/top-5-syrup-trees/" style="text-decoration: none; color: inherit;">
+            Top 5 Trees for Syrup
+          </a>
+        </h2>
+        <p style="font-size: 1.15rem;">
+          
+            Not just maple! Several tree species produce delicious, tap-worthy sap. Here are the top 5 trees you can use to make syrup.
+          
+          <a href="/posts/top-5-syrup-trees/">Read more →</a>
+        </p>
+        <p class="post-meta" style="font-size: 1rem;">Jun 11, 2025</p>
+      </div>
+    </article>
+    
+    <article class="post-card" style="margin-bottom: 2.5rem;">
+      
+      
+      <div class="post-card-img">
+        <a href="/posts/top-5-largest-whales/">
+          <img src="/images/whale-cover.png" alt="Top 5 Largest Whales" loading="lazy" style="max-width: 100%;">
+        </a>
+      </div>
+      
+      <div class="post-card-content">
+        <h2 style="font-size: 1.8rem; margin: 0.5rem 0;">
+          <a href="/posts/top-5-largest-whales/" style="text-decoration: none; color: inherit;">
+            Top 5 Largest Whales
+          </a>
+        </h2>
+        <p style="font-size: 1.15rem;">
+          
+            The oceans are home to some of the most massive creatures to ever exist. Here are the top 5 largest whales on Earth.
+          
+          <a href="/posts/top-5-largest-whales/">Read more →</a>
+        </p>
+        <p class="post-meta" style="font-size: 1rem;">Jun 9, 2025</p>
+      </div>
+    </article>
+    
+    <article class="post-card" style="margin-bottom: 2.5rem;">
+      
+      
+      <div class="post-card-img">
+        <a href="/posts/top-5-largest-snakes/">
+          <img src="/images/snake-cover.png" alt="Top 5 Largest Snakes" loading="lazy" style="max-width: 100%;">
+        </a>
+      </div>
+      
+      <div class="post-card-content">
+        <h2 style="font-size: 1.8rem; margin: 0.5rem 0;">
+          <a href="/posts/top-5-largest-snakes/" style="text-decoration: none; color: inherit;">
+            Top 5 Largest Snakes
+          </a>
+        </h2>
+        <p style="font-size: 1.15rem;">
+          
+            Slithering giants roam the wild — some longer than a bus! Here are the top 5 largest snakes on Earth.
+          
+          <a href="/posts/top-5-largest-snakes/">Read more →</a>
+        </p>
+        <p class="post-meta" style="font-size: 1rem;">Jun 8, 2025</p>
+      </div>
+    </article>
+    
+  </section>
+</main>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Top 5 Poisonous Mushrooms
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Nature hides danger in plain sight — especially among mushrooms.
-Here are the top 5 most poisonous mushrooms in the world.
-1. Death Cap (Amanita phalloides) ☠️ Toxin: Amatoxins
-📍 Found: Europe, North America, Asia
-⚠️ Fatal dose: One mushroom
-Responsible for most mushroom-related deaths worldwide, the Death Cap resembles edible varieties — making it especially dangerous. Symptoms are delayed, often too late for effective treatment.
-2. Destroying Angel (Amanita bisporigera) ...</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-06-11 00:00:00 +0000 UTC'>June 11, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to Top 5 Poisonous Mushrooms" href="http://localhost:1313/posts/top-5-mushrooms/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Top 5 Trees for Syrup
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Not just maple! Several tree species produce delicious, tap-worthy sap.
-Here are the top 5 trees you can use to make syrup.
-1. Sugar Maple (Acer saccharum) 🍁 Sap Sugar Content: ~2%
-🌎 Found: Eastern North America
-🧴 Flavor: Rich, classic maple syrup
-The Sugar Maple is the gold standard for syrup. Its high sugar content and smooth flavor make it the most efficient and widely used tree for syrup production.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-06-11 00:00:00 +0000 UTC'>June 11, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to Top 5 Trees for Syrup" href="http://localhost:1313/posts/top-5-syrup-trees/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Top 5 Largest Whales
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>The oceans are home to some of the most massive creatures to ever exist.
-Here are the top 5 largest whales on Earth.
-1. Blue Whale (Balaenoptera musculus) 📏 Length: Up to 100 feet
-⚖️ Weight: Up to 200 tons
-🌊 Where: All major oceans
-The blue whale is the largest animal ever known — even bigger than dinosaurs. Its heart is the size of a small car, and its call can be heard hundreds of miles away.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-06-09 00:00:00 +0000 UTC'>June 9, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to Top 5 Largest Whales" href="http://localhost:1313/posts/top-5-largest-whales/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Top 5 Largest Snakes
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Slithering giants roam the wild — some longer than a bus!
-Here are the top 5 largest snakes on Earth.
-1. Green Anaconda (Eunectes murinus) 📏 Length: Up to 30 feet
-⚖️ Weight: Over 500 pounds
-🌍 Where: South America (Amazon Basin)
-The green anaconda is the heaviest snake in the world. Though not the longest, its girth and weight are unmatched — capable of taking down large prey like caimans and capybaras.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-06-08 00:00:00 +0000 UTC'>June 8, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to Top 5 Largest Snakes" href="http://localhost:1313/posts/top-5-largest-snakes/"></a>
-</article>
     </main>
     
 <footer class="footer">

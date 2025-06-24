@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main class="main">
+  <h1 class="page-title" style="font-size: 2.4rem;">{{ .Title }}</h1>
+
+  <section>
+    {{ range .Pages }}
+    <article class="post-card" style="margin-bottom: 2.5rem;">
+      {{ $page := . }}
+      {{ with $page.Params.cover_image }}
+      <div class="post-card-img">
+        <a href="{{ $page.RelPermalink }}">
+          <img src="{{ . }}" alt="{{ $page.Title }}" loading="lazy" style="max-width: 100%;">
+        </a>
+      </div>
+      {{ end }}
+      <div class="post-card-content">
+        <h2 style="font-size: 1.8rem; margin: 0.5rem 0;">
+          <a href="{{ $page.RelPermalink }}" style="text-decoration: none; color: inherit;">
+            {{ $page.Title }}
+          </a>
+        </h2>
+        <p style="font-size: 1.15rem;">
+          {{ if $page.Summary }}
+            {{ $page.Summary | truncate 200 }}
+          {{ else }}
+            {{ $page.Content | plainify | truncate 200 }}
+          {{ end }}
+          <a href="{{ $page.RelPermalink }}">Read more →</a>
+        </p>
+        <p class="post-meta" style="font-size: 1rem;">{{ $page.Date.Format "Jan 2, 2006" }}</p>
+      </div>
+    </article>
+    {{ end }}
+  </section>
+</main>
+{{ end }}
+
