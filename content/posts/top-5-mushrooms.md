@@ -3,8 +3,7 @@ title: "Top 5 Poisonous Mushrooms"
 date: 2025-06-11
 cover_image: "/images/mushroom-cover.png"
 draft: false
-summary: "Nature hides danger in plain sight — especially among mushrooms.  
- Here are the top 5 most poisonous mushrooms in the world"
+summary: "These deadly mushrooms may look harmless, but each one packs a toxic punch you won’t forget."
 ---
 
 Nature hides danger in plain sight — especially among mushrooms.  

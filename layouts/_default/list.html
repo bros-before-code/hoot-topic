@@ -25,7 +25,12 @@
           {{ else }}
             {{ $page.Content | plainify | truncate 200 }}
           {{ end }}
-          <a href="{{ $page.RelPermalink }}">Read more →</a>
+          <div style="margin-top: 0.75rem;">
+             <a href="{{ $page.RelPermalink }}"
+                 style="display: inline-block; padding: 0.4rem 0.8rem; background-color: #4f46e5; color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">
+                Read more →
+                </a>
+             </div>
         </p>
         <p class="post-meta" style="font-size: 1rem;">{{ $page.Date.Format "Jan 2, 2006" }}</p>
       </div>

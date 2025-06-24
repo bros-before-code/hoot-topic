@@ -3,8 +3,7 @@ title: "Top 5 Largest Whales"
 date: 2025-06-09
 cover_image: "/images/whale-cover.png"
 draft: false
-summary: "The oceans are home to some of the most massive creatures to ever exist.  
- Here are the top 5 largest whales on Earth."
+summary: "Dive into the deep and discover five colossal whales that rule the ocean by sheer size alone."
 ---
 
 The oceans are home to some of the most massive creatures to ever exist.  
