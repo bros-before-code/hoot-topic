@@ -6,42 +6,49 @@
     <description>Recent content in Posts on Hoottopic</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 Longest Living Insects</title>
+      <link>http://localhost:1313/posts/longest-living-insects/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/longest-living-insects/</guid>
+      <description>Discover the insects that defy the odds.</description>
+    </item>
     <item>
       <title>Top 5 American Sodas During the 1800s</title>
       <link>http://localhost:1313/posts/top-5-1800s-sodas/</link>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/top-5-1800s-sodas/</guid>
-      <description>Before Coca-Cola became king, the 1800s were bubbling with strange brews, herbal tonics, and fizzy elixirs. Let’s pop the cork on the top 5 sodas that quenched America’s thirst in the 19th century.</description>
+      <description>Explore five forgotten fizzy favorites that defined America&amp;rsquo;s early soda scene long before modern soft drinks took over.</description>
     </item>
     <item>
       <title>Top 5 Poisonous Mushrooms</title>
       <link>http://localhost:1313/posts/top-5-mushrooms/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/top-5-mushrooms/</guid>
-      <description>Nature hides danger in plain sight — especially among mushrooms. Here are the top 5 most poisonous mushrooms in the world</description>
+      <description>These deadly mushrooms may look harmless, but each one packs a toxic punch you won’t forget.</description>
     </item>
     <item>
       <title>Top 5 Trees for Syrup</title>
       <link>http://localhost:1313/posts/top-5-syrup-trees/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/top-5-syrup-trees/</guid>
-      <description>Not just maple! Several tree species produce delicious, tap-worthy sap. Here are the top 5 trees you can use to make syrup.</description>
+      <description>From forest to flapjacks — these surprising trees drip with sweet, syrup-making potential.</description>
     </item>
     <item>
       <title>Top 5 Largest Whales</title>
       <link>http://localhost:1313/posts/top-5-largest-whales/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/top-5-largest-whales/</guid>
-      <description>The oceans are home to some of the most massive creatures to ever exist. Here are the top 5 largest whales on Earth.</description>
+      <description>Dive into the deep and discover five colossal whales that rule the ocean by sheer size alone.</description>
     </item>
     <item>
       <title>Top 5 Largest Snakes</title>
       <link>http://localhost:1313/posts/top-5-largest-snakes/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/top-5-largest-snakes/</guid>
-      <description>Slithering giants roam the wild — some longer than a bus! Here are the top 5 largest snakes on Earth.</description>
+      <description>Meet the world’s biggest serpents — massive, muscle-bound predators that stretch the limits of size.</description>
     </item>
   </channel>
 </rss>
