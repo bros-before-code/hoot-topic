@@ -6,8 +6,15 @@
     <description>Recent content in Welcome to Hoottopic on Hoottopic</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 Largest Buildings</title>
+      <link>http://localhost:1313/posts/largest-buildings/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/largest-buildings/</guid>
+      <description>Explore the giants of modern architecture.</description>
+    </item>
     <item>
       <title>Top 5 Longest Living Insects</title>
       <link>http://localhost:1313/posts/longest-living-insects/</link>
